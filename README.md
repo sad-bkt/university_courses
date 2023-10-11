@@ -4,10 +4,9 @@
 
 [Digital diploma](https://diploma.itmo.ru/docs/1921FE62EB9A1163618BDEB47A6491E3)
 
-| Subject                                                                                                   | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+| Subject \ Semester number                                                                                 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |:----------------------------------------------------------------------------------------------------------|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | Computer architecture                                                                                     | x |   |   |   |   |   |   |   |
-| 
 | [Programming (in C/C++)](https://github.com/sad-bkt/programming_cpp)                                      | x | x |   |   |   |   |   |   |
 | [Introduction to Digital Culture and Programming](https://github.com/sad-bkt/digital_culture/tree/master) | x |   |   |   |   |   |   |   |
 | Algorithms and data structures                                                                            | x | x |   |   |   |   |   |   |
@@ -49,7 +48,7 @@
 
 
 ## Master's degree - Artificial intelligence 2023-2025
-| Subject                                                                                | 1 | 2 | 3 | 4 |
+| Subject \ Semester number                                                              | 1 | 2 | 3 | 4 |
 |:---------------------------------------------------------------------------------------|:-:|:-:|:-:|:-:|
 | Workshop on creating a product using data                                              | x |   |   |   |
 | Working in a remote team                                                               | x |   |   |   | 
