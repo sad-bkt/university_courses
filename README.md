@@ -1,14 +1,14 @@
 # Courses at ITMO University
 
 ## Master's degree - Artificial intelligence 2023-2025
-| Subject \ Semester number                                                                    | 1 | 2 | 3 | 4 |
-|:---------------------------------------------------------------------------------------------|:-:|:-:|:-:|:-:|
-| Workshop on creating a product using data                                                    | x |   |   |   |
-| [Deep learning and natural language processing (NLP)](https://github.com/sad-bkt/nlp_course) | x |   |   |   |
-| Image processing and generation                                                              | x |   |   |   |
-| Algorithms and data structures                                                               | x |   |   |   |
-| Machine learning for scientific data analysis                                                | x |   |   |   |
-| Deep learning in practice ([hw1](https://github.com/Wiaci/RoadSignsDetector/), hw2)          | x |   |   |   |
+| Subject \ Semester number                                                                                                                           | 1 | 2 | 3 | 4 |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------|:-:|:-:|:-:|:-:|
+| Workshop on creating a product using data                                                                                                           | x |   |   |   |
+| [Deep learning and natural language processing (NLP)](https://github.com/sad-bkt/nlp_course)                                                        | x |   |   |   |
+| [Image processing and generation](https://github.com/sad-bkt/computer_vision_course)                                                                | x |   |   |   |
+| Algorithms and data structures                                                                                                                      | x |   |   |   |
+| [Machine learning for scientific data analysis](https://github.com/sad-bkt/sentiment_classification)                                                | x |   |   |   |
+| Deep learning in practice ([hw1](https://github.com/Wiaci/RoadSignsDetector/), [hw2](https://github.com/Tanchik24/vacancies_search))                | x |   |   |   |
 
 
 ## Bachelor's degree - Information systems and technologies 2019 - 2023
