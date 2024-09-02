@@ -42,7 +42,7 @@ Grade Point Average: 4.0
 | Additional Physics Chapters                                                                                                                                           |   |   |   | x |   |   |   |   |
 | Math statistics                                                                                                                                                       |   |   |   | x |   |   |   |   |
 | Programming technologies (in Java)                                                                                                                                    |   |   |   | x |   |   |   |   |
-| Applied Mathematics                                                                                                                                                   |   |   |   | x |   |   |   |   |
+| [Applied Mathematics](https://github.com/NiHummel/Optimization_Methods)                                                                                                                                                   |   |   |   | x |   |   |   |   |
 | Software Development Tools                                                                                                                                            |   |   |   | x |   |   |   |   |
 | Electrical and electronics engineering                                                                                                                                |   |   |   | x |   |   |   |   |
 | Image processing                                                                                                                                                      |   |   |   |   | x |   |   |   |
