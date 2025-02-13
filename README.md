@@ -14,6 +14,11 @@
 | Аpplied time series analysis                                                                                                             |   | x |   |   |
 | Computer vision technologies                                                                                                             |   | x |   |   |
 | Project seminar ([NymphLens](https://github.com/sad-bkt/prompt_engineering), [Wonderslide](https://github.com/sad-bkt/photo_generation)) | x | x |   |   |
+| Data Science Simulator ([karpov.courses](https://karpov.courses/simulator-ds))                                                           |   |   | x |   |
+| Multimodal Models                                                                                                                        |   |   | x |   |
+| Cases of application of machine learning with Radoslav Neychev                                                                           |   |   | x |   |
+| Hard-ML ([karpov.courses](https://karpov.courses/ml-hard))                                                                               |   |   |   | x |
+| 3d Computer Vision (SHAD course)                                                                                                         |   |   |   | x |
 
 ## Bachelor's degree - Information systems and technologies 2019 - 2023
 
